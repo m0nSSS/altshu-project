@@ -1,0 +1,94 @@
+.font_nav {
+  font-size: 16px;
+  color: #ADA996;
+  background-color: #3C3B3F;
+  font-family: Merriweather;
+}
+ {
+    background-color: #3C3B3F
+}
+
+h1 {
+    font-size: 72px;
+    color: #ADA996;
+    background-color: #3C3B3F;
+    font-family: Lora
+}
+.font_hi {
+    font-size: 22px;
+    color: #ADA996;
+    background-color: #3C3B3F;
+    font-family: Merriweather;
+}
+
+button {
+    background:#ffffff;
+    width: 203px;
+    height: 69px;
+    color: #0F0C29;
+    font-size: 18px;
+    font-family: Merriweather;
+}
+  
+  button.gray:hover {
+    background: gray;
+    color: #ffffff;
+    font-family: Merriweather;
+}
+  
+  .font_pas {
+    font-size: 16px;
+    color: #ADA996;
+    background-color: #3C3B3F;
+    font-family: Merriweather;
+}
+  
+  .alt {
+    font-size: 16px;
+    color: aqua;
+    font-family: Merriweather;
+}
+  
+  .font_vol {
+    font-size: 16px;
+    color: #ADA996;
+    background-color: #595959;
+    font-family: Merriweather;
+}
+  
+  .font_wor  {
+    font-size: 18px;
+    color:#ADA996 ;
+    background-color: #595959;
+    font-family:Merriweather ;
+  }
+  .font_an {
+    font-size: 20px;
+    color: #ADA996;
+    background-color: #595959;
+    font-family: Merriweather;
+  } 
+  h2 {
+    font-size: 48px;
+    color: #ADA996;
+    background-color: #595959;
+    font-family: Lora
+  }
+  h3 {
+    font-size: 60px;
+    color: #ADA996;
+    background-color: #595959;
+    font-family: Lora
+  }
+  h5 {
+    font-size: 48px;
+    color: #ADA996;
+    background-color: #080c29;
+    font-family: Lora
+  }
+  h4 {
+    font-size: 60px;
+    color: #ADA996;
+    background-color: #080c29;
+    font-family: Lora
+  }
